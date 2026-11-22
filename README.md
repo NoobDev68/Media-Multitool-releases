@@ -31,7 +31,7 @@
 
 ## Скачать
 
-**[Media.Multitool.Portable.zip](https://github.com/NoobDev68/Media-Multitool-releases/releases/latest/download/Media.Multitool.Portable.zip)** — 299 МБ
+**[Media.Multitool.Portable.zip](https://github.com/NoobDev68/Media-Multitool-releases/releases/latest/download/Media.Multitool.Portable.zip)** — 299 МБ, версия 1.0.1
 
 1. Распаковать архив в любую папку — не в `Program Files`.
 2. Запустить `Media Multitool.exe`.
@@ -43,7 +43,7 @@
 **Контрольная сумма** (SHA256):
 
 ```
-77f77f86179bafa0c8782d5e2e3521a4c1e72d111c2377bf0960a40b83dcd71c
+08fb5394ca9ee677863682a76551d45a9585a82607ef36eaaadcdf4494c5029b
 ```
 
 Проверка в PowerShell:
@@ -59,6 +59,8 @@ certutil -hashfile "Media.Multitool.Portable.zip" SHA256
 Если программа оказалась полезной, можно угостить меня чашкой кофе:
 
 **[☕ Купить чашечку кофе](https://boosty.to/threer/donate)**
+
+В самой программе для этого есть кнопка **«☕ Отблагодарить автора»** в правом верхнем углу.
 
 ## Обновления
 
