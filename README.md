@@ -65,20 +65,6 @@ e3501713fa959ca328c6cc6bb883b77424dd297f789ef82f97876813a7b9e2c5
 certutil -hashfile "Media.Multitool.Portable.zip" SHA256
 ```
 
-## Скриншоты
-
-**OCR и перевод**
-
-![OCR и перевод](docs/screenshot-ocr.png)
-
-**Конвертер**
-
-![Конвертер](docs/screenshot-converter.png)
-
-**Скачивание обоев**
-
-![Скачивание обоев](docs/screenshot-wallpapers.png)
-
 ## Требования
 
 - Windows 10 или 11, 64-бит.
